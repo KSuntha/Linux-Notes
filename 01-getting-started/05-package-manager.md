@@ -83,4 +83,3 @@ Since this is page number three, navigate over to your root repository README.md
 - [Learn about Linux Distributions](./linux-distributions.md)
 - [Learn about Linux Package Managers](./package-managers.md)
 
-Now that you have automated app installations down perfectly, would you like to move on to Linux User and Group Management (useradd, chmod, chown) or deep dive into Managing Active Linux Services (systemctl)? Let's keep your momentum going!
